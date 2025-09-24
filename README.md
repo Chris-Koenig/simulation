@@ -1,3 +1,10 @@
+# This is a revenue forecast web app that allows you to upload a CSV file with transactions and forecast the revenue for the future.
+
+The App uses ML models to forecast the revenue for the future. It was build with the help of OpenAI's ChatGPT and Claude. 
+All Done with vibe coding :-)
+
+
+
 ## Revenue Forecast Web App
 
 ### Prerequisites
