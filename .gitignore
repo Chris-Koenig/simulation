@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.apdisk
+
+
+frontend/node_modules
+.venv
+.env    
+
+
